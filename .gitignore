@@ -1,0 +1,5 @@
+dist/
+license
+pyproject.toml
+src/ps_neuralnetwork.egg-info/
+src/ps_neuralnetwork/__pycache__/
