@@ -16,9 +16,9 @@ A minimal neural network framework built from scratch in pure Python, featuring 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ps-neuralnetwork.git
-cd ps-neuralnetwork
-pip install -e .
+git clone https://github.com/PritiyaxShukla/ps_neuralnetwork.git
+cd ps_neuralnetwork
+pip install ps_neuralnetwork .
 ```
 
 This installs the package in “editable” mode so you can modify the source and immediately test changes.
